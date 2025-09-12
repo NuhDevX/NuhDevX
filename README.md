@@ -5,6 +5,5 @@
 - 📫 How to reach me: zhafifnuh15@gmail.com
 - ⚡ Fun fact: I'm afraid of cockroaches
 
-
-### Jumlah Pengunjung 
-<img align="center" src="https://profile-counter.glitch.me/{NuhDevX}/count.svg"/></p> 
+- [![Statistik GitHub NuhDevX](https://github-readme-stats.vercel.app/api?username=NuhDevX&show_icons=true&theme=react)](https://github.com/NuhDevX/)
+  
