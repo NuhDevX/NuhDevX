@@ -10,8 +10,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuhDevX&theme=dark)<br/>
-![](https://github-readme-stats.shion.dev/api?username=NuhDevX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=NuhDevX&theme=dark&hide_border=true)<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=NuhDevX&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=NuhDevX&theme=dark&hide_border=true" height="195" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NuhDevX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="155" />
@@ -23,4 +26,4 @@
 [![](https://komarev.com/ghpvc/?username=NuhDevX&icon=5&color=blue)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/masnuhxyz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nuhnuh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/notmasnuh) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/masnuhxyz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nuhnuh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/notmasnuh)
